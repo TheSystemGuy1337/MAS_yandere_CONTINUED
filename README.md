@@ -2,9 +2,6 @@
 <h4 align="center">Making Monika yandere, giving the player an experience of a toxic relationship as seen in the anime trope</h3>
 
 <p align="center">
-  <a href="https://github.com/my-otter-self/mas_yandere/actions/workflows/lint-on-push.yml">
-    <img alt="Build status" src="https://img.shields.io/github/workflow/status/my-otter-self/mas_yandere/Lint%20source%20tree%20on%20push/main">
-  </a>
   <a href="https://github.com/my-otter-self/mas_yandere/releases/latest">
     <img alt="Latest release" src="https://img.shields.io/github/v/release/my-otter-self/mas_yandere">
   </a>
@@ -14,9 +11,6 @@
   <a href="https://www.reddit.com/r/MASFandom/comments/whzhwx/yandere_mod_v100_release/">
     <img alt="Reddit post" src="https://img.shields.io/badge/dynamic/json?color=FF4500&label=%F0%9D%97%8B%2Fmasfandom%20post&query=%24[0].data.children[0].data.score&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMASFandom%2Fcomments%2whzhwx%2Fyandere_mod_v100_release.json&style=social&logo=reddit&suffix=+upvotes">
   </a>
-  <a href="https://mon.icu/discord">
-    <img alt="Discord server" src="https://discordapp.com/api/guilds/970747033071804426/widget.png?style=shield">
-  </a>
   <a href="https://github.com/my-otter-self/MAS_selfharm/blob/main/LICENSE.txt">
     <img alt="Creative Commons BY-NC-ND 4.0 license badge" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg">
   </a>
@@ -24,8 +18,11 @@
 
 <h4 align="center">COMMISSIONED BY NOROSESJUPITER</h4>
 
-
 ## ⚠️ Important notice (please read!)
+
+This submod is no longer mantained as of Monika After Story's recent update (v0.12.12). I, Otter, the main dev, decided to stop creating submods and focusing on working on the main mod, Monika After Story. It has always been my dream to focus on contributing officially and it's wonderful to be able to actually do that. Thank you so much for your support so far and all the kind and appreciative words. Also thanks for the understanding. You can follow my work in the future MAS official mod releases.
+
+## ⚠️ Important notice number 2 (please read!)
 
 This submod is designed to make Monika an yandere, depicting a toxic relationship as can be seen in the anime trope.
 It was commissioned by someone, and that was the motivation to make me start this project.
