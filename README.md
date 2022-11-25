@@ -1,28 +1,13 @@
-<h1 align="center">🔪 MAS Yandere Submod 🔪</h1>
-<h4 align="center">Making Monika yandere, giving the player an experience of a toxic relationship as seen in the anime trope</h3>
+<h1 align="center">MAS Yandere Submod - CONTINUED!</h1>
+<h4 align="center">A community supported version of My Otter Self's Yandere submod.</h3>
 
-<p align="center">
-  <a href="https://github.com/my-otter-self/mas_yandere/releases/latest">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/my-otter-self/mas_yandere">
-  </a>
-  <a href="https://github.com/my-otter-self/mas_yandere/releases">
-    <img alt="Release downloads" src="https://img.shields.io/github/downloads/my-otter-self/mas_yandere/total">
-  </a>
-  <a href="https://www.reddit.com/r/MASFandom/comments/whzhwx/yandere_mod_v100_release/">
-    <img alt="Reddit post" src="https://img.shields.io/badge/dynamic/json?color=FF4500&label=%F0%9D%97%8B%2Fmasfandom%20post&query=%24[0].data.children[0].data.score&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMASFandom%2Fcomments%2whzhwx%2Fyandere_mod_v100_release.json&style=social&logo=reddit&suffix=+upvotes">
-  </a>
-  <a href="https://github.com/my-otter-self/MAS_selfharm/blob/main/LICENSE.txt">
-    <img alt="Creative Commons BY-NC-ND 4.0 license badge" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg">
-  </a>
-</p>
+<h4 align="center">ORGINALLY COMMISSIONED BY NOROSESJUPITER FOR MY OTTER SELF</h4>
 
-<h4 align="center">COMMISSIONED BY NOROSESJUPITER</h4>
-
-## ⚠️ Important notice (please read!)
+## Important notice (from the original developer)
 
 This submod is no longer mantained as of Monika After Story's recent update (v0.12.12). I, Otter, the main dev, decided to stop creating submods and focusing on working on the main mod, Monika After Story. It has always been my dream to focus on contributing officially and it's wonderful to be able to actually do that. Thank you so much for your support so far and all the kind and appreciative words. Also thanks for the understanding. You can follow my work in the future MAS official mod releases.
 
-## ⚠️ Important notice number 2 (please read!)
+## LEAGL DISCLAIMER
 
 This submod is designed to make Monika an yandere, depicting a toxic relationship as can be seen in the anime trope.
 It was commissioned by someone, and that was the motivation to make me start this project.
@@ -30,26 +15,25 @@ I don't think the actions depicted in the topics are healthy neither do I ideali
 The commissioner allowed me to make this public, so I decided to make a public and proper release of it.
 Download at risk, TRIGGER WARNING: blood, toxic relationship, abusive behaviour.
 
+## A note from TheSystemGuy
+This is a unofficial continued version of the Yandere submod by My Otter Self, who has left the submodding community as a whole and archived her work. TheSystemGuy is not sponsored, endorsed or otherwise supported by My Otter Self, The Monika After Story Developers or Team Salvato.
 
-## 🌟 Features
+
+## Features
 
   * New dialogues
   * New farewells
   * New compliments
   * New songs for Monika to sing
 
-## ✒️ Authors
+## Authors
+My Otter Self (orginal submod)
+TheSystemGuy/The MAS submodding community (for keeping this fine work alive for generations to come)
 
-<p align="center">
-  <a href="https://github.com/my-otter-self/MAS_yandere/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=my-otter-self/MAS_yandere&max=6" />
-  </a>
-</p>
-
-**Note:** CC BY-NC-ND 4.0 only covers content created by authors, contributors or maintainers of this mod (repository) and does not cover
+**LEAGL DISCLAIMER:** CC BY-NC-ND 4.0 only covers content created by authors, contributors or maintainers of this mod (repository) and does not cover
 anything that was created by third party.
 
-## 💚 MAS Repository
+## MAS Repository
 Here you can see the official Monika After Story repository!
 
 [![card](https://github-readme-stats.vercel.app/api/pin/?username=Monika-After-Story&repo=MonikaModDev)](https://github.com/Monika-After-Story/MonikaModDev)
