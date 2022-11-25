@@ -1,8 +1,8 @@
 init -990 python in mas_submod_utils:
     Submod(
-        author="otter",
-        name="MAS Yandere Submod",
-        description="Making Monika yandere, giving the player an experience of a toxic relationship as seen in the anime trope.",
+        author="My Otter Self/TheSystemGuy",
+        name="MAS Yandere Submod - CONTINUED",
+        description="A community continued version of My Otter Self's Yandere Submod.",
         version="1.0.0",
         dependencies={},
         settings_pane=None,
