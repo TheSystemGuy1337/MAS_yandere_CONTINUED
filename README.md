@@ -28,6 +28,7 @@ This is a unofficial continued version of the Yandere submod by My Otter Self, w
 
 ## Authors
 My Otter Self (orginal submod)
+
 TheSystemGuy/The MAS submodding community (for keeping this fine work alive for generations to come)
 
 **LEAGL DISCLAIMER:** CC BY-NC-ND 4.0 only covers content created by authors, contributors or maintainers of this mod (repository) and does not cover
