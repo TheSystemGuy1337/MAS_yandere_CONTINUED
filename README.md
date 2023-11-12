@@ -16,7 +16,7 @@ The commissioner allowed me to make this public, so I decided to make a public a
 Download at risk, TRIGGER WARNING: blood, toxic relationship, abusive behaviour.
 
 ## A note from TheSystemGuy
-This is a unofficial continued version of the Yandere submod by My Otter Self, who has left the submodding community as a whole and archived her work. TheSystemGuy is not sponsored, endorsed or otherwise supported by My Otter Self, The Monika After Story Developers or Team Salvato.
+This is a unofficial continued version of the Yandere submod by My Otter Self, who has left the submodding community as a whole and archived her work. TheSystemGuy is not sponsored, endorsed or otherwise supported by My Otter Self, The Monika After Story Developers or Team Salvato. I am no longer working on this. Support will be handled (somewhat) by Friends of Monika.
 
 
 ## Features
