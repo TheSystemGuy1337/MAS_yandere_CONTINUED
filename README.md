@@ -7,6 +7,11 @@
 
 This submod is no longer mantained as of Monika After Story's recent update (v0.12.12). I, Otter, the main dev, decided to stop creating submods and focusing on working on the main mod, Monika After Story. It has always been my dream to focus on contributing officially and it's wonderful to be able to actually do that. Thank you so much for your support so far and all the kind and appreciative words. Also thanks for the understanding. You can follow my work in the future MAS official mod releases.
 
+## Important notice (from TheSystemGuy)
+I have moved on from the Monika After Story community and have no intrest in maintaining this repo. The code should be considered obsolete, as updates to Monika After Story has most certainly broken it by now.
+
+This repo will be archived for this exact reason.
+
 ## LEGAL DISCLAIMER
 
 This submod is designed to make Monika an yandere, depicting a toxic relationship as can be seen in the anime trope.
